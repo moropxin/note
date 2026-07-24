@@ -1,5 +1,5 @@
-this is a simple project,about return and array 
-在这个项目里二维数组作为存储商品信息的空间
+#this is a simple project,about return and array 
+#在这个项目里二维数组作为存储商品信息的空间
 
 #include <stdio.h>
 #include <windows.h> \\just this bit 
