@@ -1,2 +1,1 @@
-i'm an student in gdput school
-all about you should be dead
+i'm an student from gdput school and i will never stop in this place
